@@ -2,6 +2,7 @@
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
+ Site is live at : https://diddie029.github.io/My-Portfolio/
 
 ## Features
 
